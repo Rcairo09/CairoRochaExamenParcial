@@ -30,7 +30,7 @@ EXECUTE msdb.dbo.sysmail_add_account_sp
     @port = 587,
     @enable_ssl = 1,
     @username = 'cairor22@outlook.com',
-    @password = 'Rcairo091208' ;  
+    @password = '*****' ;  
 GO
 
 -- Añadiendo cuenta al perfil  
